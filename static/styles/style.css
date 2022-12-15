@@ -1,0 +1,110 @@
+
+#avatar
+{
+    width:170px;
+    height:150px;
+    border-radius: 50%;
+    padding:40px;
+}
+#header
+{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 40pt;
+    color:white;
+    text-align: center;
+    padding: 50px;
+    margin: 30px;
+    border-radius: 10px;
+}
+#footer
+{
+    text-align: center;
+    color:gray;
+    margin:auto;
+    padding:50px;
+    font-size:16pt;
+}
+#result_part 
+{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    text-align: center;
+    padding: 20px;
+    margin:30px;
+}
+#content 
+{
+
+    width: 100%;
+}
+#info
+{
+    text-align:left;
+    color:gray;
+    width:30%;
+    margin:50px;
+    padding:50px;
+    font-size:16pt;
+}
+#result_id_number
+{
+    margin: 15px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #FEED06;
+    color: black;
+    font-weight: bold;
+    font-size: 16pt;
+    border-radius: 10px;
+}
+#result_id
+{
+    padding: 10px;
+    margin: 15px;
+    font-size: 16pt;
+
+}
+#upload_part
+{
+    border-radius: 10px;
+ 
+    text-align: center;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin: 30px;
+    font-style: bold;
+}
+
+#upload_button
+{
+    background: linear-gradient(45deg, #1da1f2, #0e71c8);
+    box-shadow: 0 4px 30px rgba(19, 127, 212, 0.4);
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px 0;
+    min-width: 250px;
+    border-radius: 50px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    transform: all 0.2s;
+    /* background-color: #FEED06; */
+}
+
+#upload_hint
+{
+    margin: 10px;
+    font-size: 16pt;
+    color: rgb(200, 200, 200);
+}
+
+#result_title
+{
+    font-size: 16pt;
+    font-weight: bold;
+    text-align:center;
+}

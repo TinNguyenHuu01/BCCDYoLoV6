@@ -1,0 +1,5 @@
+train: ../BCCD88/BCCD88/images/train
+val: ../BCCD88/BCCD88/images/train
+is_coco: False
+nc: 4
+names: ['MONOCYTE','NEUTROPHIL','LYMPHOCYTE','EOSINOPHIL']

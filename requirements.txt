@@ -1,0 +1,24 @@
+# pip install list
+# pip install -r requirements.txt
+# python3.8 environment
+
+opencv-python==4.6.0.66
+Flask
+gunicorn
+numpy>=1.18.5
+torch
+click
+colorama
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+pytz
+requests
+twilio==7.12.1
+PyYAML>=5.3.1
+scipy>=1.4.1
+tqdm>=4.41.0
+addict>=2.4.0
+tensorboard>=2.7.0
+pycocotools>=2.0
