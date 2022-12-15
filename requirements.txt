@@ -2,7 +2,7 @@
 # pip install -r requirements.txt
 # python3.8 environment
 
-opencv-python==4.6.0.66
+opencv-python
 Flask
 gunicorn
 numpy>=1.18.5
