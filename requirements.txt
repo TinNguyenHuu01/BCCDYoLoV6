@@ -1,26 +1,6 @@
-# pip install list
 # pip install -r requirements.txt
 # python3.8 environment
 
-torchvision>=0.9.0
-opencv-python-headless==4.5.3.56
-pyinstaller==4.4
 Flask
 gunicorn
-numpy>=1.14.5
 torch
-click
-colorama
-itsdangerous
-Jinja2
-MarkupSafe
-Werkzeug
-pytz
-requests
-twilio==7.12.1
-PyYAML>=5.3.1
-scipy>=1.4.1
-tqdm>=4.41.0
-addict>=2.4.0
-tensorboard>=2.7.0
-pycocotools>=2.0
