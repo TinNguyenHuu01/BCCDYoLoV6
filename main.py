@@ -1,4 +1,4 @@
-import cv2
+from cv2.cv2 import cv2
 from flask import Flask, render_template, request
 from random import random
 from my_yolov6 import my_yolov6
