@@ -2,7 +2,7 @@
 # pip install -r requirements.txt
 # python3.8 environment
 
---force-reinstall --no-cache opencv-python==4.6.0.66
+opencv-python==4.6.0.66
 pyinstaller==4.4
 Flask
 gunicorn
