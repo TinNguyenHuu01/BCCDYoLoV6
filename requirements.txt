@@ -3,7 +3,7 @@
 # python3.8 environment
 
 torchvision>=0.9.0
-opencv-python --force-reinstall
+python3-opencv
 pyinstaller==4.4
 Flask
 gunicorn
