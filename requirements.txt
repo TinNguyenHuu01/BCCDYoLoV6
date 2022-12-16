@@ -2,7 +2,7 @@
 # pip install -r requirements.txt
 # python3.8 environment
 
-opencv-python-headless
+opencv-python --upgrade --force-reinstall
 pyinstaller==4.4
 Flask
 gunicorn
