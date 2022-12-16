@@ -2,6 +2,7 @@
 # pip install -r requirements.txt
 # python3.8 environment
 
+torchvision>=0.9.0
 opencv-python --upgrade --force-reinstall
 pyinstaller==4.4
 Flask
